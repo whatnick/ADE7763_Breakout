@@ -153,10 +153,10 @@
 <wire x1="35.23" y1="24.12" x2="32.69" y2="26.66" width="0.4064" layer="20" curve="90"/>
 <wire x1="32.69" y1="26.66" x2="5.08" y2="26.66" width="0.4064" layer="20"/>
 <wire x1="5.08" y1="26.66" x2="2.54" y2="24.12" width="0.4064" layer="20" curve="90"/>
-<hole x="4.826" y="24.638" drill="0.8128"/>
-<hole x="33.02" y="24.638" drill="0.8128"/>
-<hole x="4.826" y="2.286" drill="0.8128"/>
-<hole x="33.02" y="2.286" drill="0.8128"/>
+<hole x="4.826" y="24.638" drill="1.6"/>
+<hole x="33.02" y="24.638" drill="1.6"/>
+<hole x="4.826" y="2.286" drill="1.6"/>
+<hole x="33.02" y="2.286" drill="1.6"/>
 <text x="30.48" y="3.556" size="0.8128" layer="21" font="vector" ratio="20" rot="R90">5V</text>
 <text x="15.24" y="3.556" size="0.8128" layer="21" font="vector" ratio="20" rot="R90">V2P</text>
 <text x="17.78" y="3.556" size="0.8128" layer="21" font="vector" ratio="20" rot="R90">V2N</text>
