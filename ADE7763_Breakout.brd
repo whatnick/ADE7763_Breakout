@@ -922,6 +922,8 @@ Please make sure your boards conform to these design rules.</description>
 <via x="19.05" y="8.89" extent="1-16" drill="0.3302" diameter="0.4064"/>
 <via x="16.51" y="4.826" extent="1-16" drill="0.3302" diameter="0.4064"/>
 <via x="13.97" y="4.826" extent="1-16" drill="0.3302" diameter="0.4064"/>
+<via x="28.8036" y="4.318" extent="1-16" drill="0.3302" diameter="0.4064"/>
+<via x="27.2796" y="6.6294" extent="1-16" drill="0.3302" diameter="0.4064"/>
 </signal>
 <signal name="5V" class="1">
 <contactref element="U1" pad="3"/>
